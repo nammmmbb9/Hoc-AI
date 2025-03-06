@@ -1,1 +1,1 @@
-'print("Hello AI!")' 
+'print("!Hello Mọi Người nhé")' 
